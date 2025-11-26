@@ -1,7 +1,24 @@
-## Informações do Projeto
+# Projeto de Bloco: Desenvolvimento Front-end com Frameworks
 
-1. A página principal é o index.tsx, fica dentro da pasta app/(tabs)/
+Siga os passos para clonar e rodar o código:
+```bash
+# Clonar o repositório
+git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
 
-2. Clone o programa e, caso precise, uso o comando 'npm install' para instalar as dependencias
+# Entrar na pasta
+cd SEU_REPOSITORIO
 
-3. Use o comando 'npx expo start' para iniciar o programa
+# Instalar dependências (escolha um)
+npm install
+# ou
+yarn
+# ou
+pnpm install
+
+# Rodar o projeto
+npm run dev
+# ou
+yarn dev
+# ou
+pnpm dev
+```
